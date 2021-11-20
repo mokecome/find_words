@@ -4,5 +4,5 @@ python get_data.py
 python get_train_data.py
 #模型訓練
 python train.py
-#使用
+#將所有2字搭配的字符串進行預測 得分高的當作新詞
 python find_words.py
